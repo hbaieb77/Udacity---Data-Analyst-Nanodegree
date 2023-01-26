@@ -1,0 +1,8 @@
+I have used multiple ressources in order to create this notebook in which I can name : 
+-Github
+-Kaggle
+-Stackoverflow
+-Medium
+-Towards Data Science
+
+ 
